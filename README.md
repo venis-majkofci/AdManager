@@ -2,10 +2,12 @@
 
 <div align="center">
 
-<!--[![GitHub release](https://img.shields.io/github/v/release/venis-majkofci/AdManager)](https://github.com/venis-majkofci/AdManager/releases/latest)-->
+<!--
+[![GitHub release](https://img.shields.io/github/v/release/venis-majkofci/AdManager)](https://github.com/venis-majkofci/AdManager/releases/latest)
+![Downloads](https://img.shields.io/packagist/dt/venis-majkofci/AdManager)
+-->
   
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Downloads](https://img.shields.io/packagist/dt/venis-majkofci/AdManager)
 [![GitHub stars](https://img.shields.io/github/stars/venis-majkofci/AdManager)](https://github.com/venis-majkofci/AdManager/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/venis-majkofci/AdManager)](https://github.com/venis-majkofci/AdManager/issues)
 [![Built with PowerShell](https://img.shields.io/badge/Built%20with-PowerShell-blue)](https://www.electronjs.org/)
