@@ -1,0 +1,2 @@
+firstName;lastName;fullName;initials;samAccountName;displayName;logonName;password;description;enabled;changePasswordAtLogon;cannotChangePassword;passwordNeverExpires
+User2;;User2;U2;user2;User 2;user2;P4sswor1d!!!;Description of User2;True;False;False;True

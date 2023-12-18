@@ -1,0 +1,57 @@
+{
+    "domain": {
+        "name": "dom",
+        "extension": "com"
+    },
+    "organizationalUnits": [
+        {
+            "name": "OU1",
+            "protectAccidentalDeletion": true,
+            "description": "Description of OU1",
+            "groups": [
+                {
+                    "name": "Group1",
+                    "samAccountName": "group1",
+                    "displayName": "Group 1",
+                    "groupScope": "Global",
+                    "groupType": "Security",
+                    "description": "Description of Group1",
+                    "memberOf": [],
+                    "membersOptions": {
+                        "useCSV": false,
+                        "members": [
+                            {
+                                "firstName": "User1",
+                                "lastName": "",
+                                "fullName": "User1",
+                                "initials": "U1",
+                                "samAccountName": "user1",
+                                "displayName": "User 1",
+                                "logonName": "user1",
+                                "password": "P4sswor1d!!!",
+                                "description": "Description of User1",
+                                "enabled": true,
+                                "changePasswordAtLogon": false,
+                                "cannotChangePassword": true,
+                                "passwordNeverExpires": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Group2",
+                    "samAccountName": "group2",
+                    "displayName": "Group 2",
+                    "groupScope": "Global",
+                    "groupType": "Security",
+                    "description": "Description of Group2",
+                    "memberOf": [],
+                    "membersOptions": {
+                        "useCSV": true,
+                        "scvPath": "./data/users.csv"
+                    }
+                }
+            ]
+        }
+    ]
+}
