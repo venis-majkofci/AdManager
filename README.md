@@ -1,4 +1,4 @@
-# AdManager
+![admanager-banner](https://github.com/venis-majkofci/AdManager/assets/95318781/93bae0e4-88d0-4c18-bc90-94c9cba07d7e)
 
 <div align="center">
 
